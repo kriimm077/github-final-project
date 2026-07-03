@@ -13,5 +13,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 - Written in Bash
 
 ## Author
-
-Your Name
+Krima Patel
